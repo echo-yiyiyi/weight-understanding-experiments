@@ -1,0 +1,1 @@
+OpenAI connection failed or timed out. No automatic retry was made; check usage before retrying.

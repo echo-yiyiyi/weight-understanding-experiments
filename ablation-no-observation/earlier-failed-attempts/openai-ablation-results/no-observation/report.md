@@ -1,0 +1,12 @@
+# GPT-6.1 Sol — Ablation: no-observation
+
+Reasoning effort: high. Tools: none.
+
+## Example 1
+
+Source: `lm_understand-logs/exp1_which_game/runs/breakout/prompt.txt`
+
+**Request failed:** OpenAI connection failed or timed out. No automatic retry was made; check usage before retrying.
+
+Remaining examples were not sent.
+

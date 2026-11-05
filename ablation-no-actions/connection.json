@@ -1,0 +1,7 @@
+{
+  "provider": "azure",
+  "endpoint": "https://echoziyiyang-0741-resource.openai.azure.com/openai/v1/responses",
+  "deployment_or_model": "gpt-6.1-sol",
+  "intended_model": "gpt-6.1-sol",
+  "authentication_header": "api-key"
+}

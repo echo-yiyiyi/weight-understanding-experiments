@@ -1,0 +1,130 @@
+[
+  {
+    "request": "request-01-coordinates-with-other.json",
+    "source": "lm_understand-logs/exp1_which_game/runs/breakout/prompt.txt",
+    "representation": "coordinates",
+    "mode": "with-other",
+    "body_characters": 157758,
+    "state_sha256": "4c4c38bac882e896ff3e0d6f1ea8df5663a9e87b04de76ae38473caad2ec346f"
+  },
+  {
+    "request": "request-02-coordinates-with-other.json",
+    "source": "lm_understand-logs/exp1_which_game/runs/pong/prompt.txt",
+    "representation": "coordinates",
+    "mode": "with-other",
+    "body_characters": 157529,
+    "state_sha256": "ddf6bb9a1e9083b2c14b440672e01f6b0b4ea8c97583e847c97cd9e1a5069893"
+  },
+  {
+    "request": "request-03-coordinates-with-other.json",
+    "source": "lm_understand-logs/exp1_which_game/runs/pacman/prompt.txt",
+    "representation": "coordinates",
+    "mode": "with-other",
+    "body_characters": 157667,
+    "state_sha256": "03376bc94468f65fbeb4a727fdbbed331027433f317d88c9ff6e82af01b9e117"
+  },
+  {
+    "request": "request-04-coordinates-with-other.json",
+    "source": "lm_understand-logs/exp1_which_game/runs/freeway/prompt.txt",
+    "representation": "coordinates",
+    "mode": "with-other",
+    "body_characters": 157603,
+    "state_sha256": "2b4f7cd981e8a83748cf01ea31ba518338c38f6c4b2a1a1c2b2b15ff2bb7ff2b"
+  },
+  {
+    "request": "request-05-coordinates-without-other.json",
+    "source": "lm_understand-logs/exp1_which_game/runs/breakout/prompt.txt",
+    "representation": "coordinates",
+    "mode": "without-other",
+    "body_characters": 157701,
+    "state_sha256": "4c4c38bac882e896ff3e0d6f1ea8df5663a9e87b04de76ae38473caad2ec346f"
+  },
+  {
+    "request": "request-06-coordinates-without-other.json",
+    "source": "lm_understand-logs/exp1_which_game/runs/pong/prompt.txt",
+    "representation": "coordinates",
+    "mode": "without-other",
+    "body_characters": 157472,
+    "state_sha256": "ddf6bb9a1e9083b2c14b440672e01f6b0b4ea8c97583e847c97cd9e1a5069893"
+  },
+  {
+    "request": "request-07-coordinates-without-other.json",
+    "source": "lm_understand-logs/exp1_which_game/runs/pacman/prompt.txt",
+    "representation": "coordinates",
+    "mode": "without-other",
+    "body_characters": 157610,
+    "state_sha256": "03376bc94468f65fbeb4a727fdbbed331027433f317d88c9ff6e82af01b9e117"
+  },
+  {
+    "request": "request-08-coordinates-without-other.json",
+    "source": "lm_understand-logs/exp1_which_game/runs/freeway/prompt.txt",
+    "representation": "coordinates",
+    "mode": "without-other",
+    "body_characters": 157546,
+    "state_sha256": "2b4f7cd981e8a83748cf01ea31ba518338c38f6c4b2a1a1c2b2b15ff2bb7ff2b"
+  },
+  {
+    "request": "request-09-statistics-with-other.json",
+    "source": "lm_understand-logs/exp1_which_game/runs/breakout/prompt.txt",
+    "representation": "statistics",
+    "mode": "with-other",
+    "body_characters": 19143,
+    "state_sha256": "0054bd892670ee381b8c86ed2764bc50723471773c7259799c04bb1c3232fa40"
+  },
+  {
+    "request": "request-10-statistics-with-other.json",
+    "source": "lm_understand-logs/exp1_which_game/runs/pong/prompt.txt",
+    "representation": "statistics",
+    "mode": "with-other",
+    "body_characters": 19336,
+    "state_sha256": "e10889e44beb4e84a9b5eee8d1401807bced4734e3ae4d7f804ae88e58b611ae"
+  },
+  {
+    "request": "request-11-statistics-with-other.json",
+    "source": "lm_understand-logs/exp1_which_game/runs/pacman/prompt.txt",
+    "representation": "statistics",
+    "mode": "with-other",
+    "body_characters": 19163,
+    "state_sha256": "f2f052743888546453d35eb41673edf9dfd677c0d1d492dfe604cf198979f2da"
+  },
+  {
+    "request": "request-12-statistics-with-other.json",
+    "source": "lm_understand-logs/exp1_which_game/runs/freeway/prompt.txt",
+    "representation": "statistics",
+    "mode": "with-other",
+    "body_characters": 19150,
+    "state_sha256": "25aa53ee0603643b9f1dd34dbb0c80f3666d7f7eb233fbf4333977e5e86944fb"
+  },
+  {
+    "request": "request-13-statistics-without-other.json",
+    "source": "lm_understand-logs/exp1_which_game/runs/breakout/prompt.txt",
+    "representation": "statistics",
+    "mode": "without-other",
+    "body_characters": 19086,
+    "state_sha256": "0054bd892670ee381b8c86ed2764bc50723471773c7259799c04bb1c3232fa40"
+  },
+  {
+    "request": "request-14-statistics-without-other.json",
+    "source": "lm_understand-logs/exp1_which_game/runs/pong/prompt.txt",
+    "representation": "statistics",
+    "mode": "without-other",
+    "body_characters": 19279,
+    "state_sha256": "e10889e44beb4e84a9b5eee8d1401807bced4734e3ae4d7f804ae88e58b611ae"
+  },
+  {
+    "request": "request-15-statistics-without-other.json",
+    "source": "lm_understand-logs/exp1_which_game/runs/pacman/prompt.txt",
+    "representation": "statistics",
+    "mode": "without-other",
+    "body_characters": 19106,
+    "state_sha256": "f2f052743888546453d35eb41673edf9dfd677c0d1d492dfe604cf198979f2da"
+  },
+  {
+    "request": "request-16-statistics-without-other.json",
+    "source": "lm_understand-logs/exp1_which_game/runs/freeway/prompt.txt",
+    "representation": "statistics",
+    "mode": "without-other",
+    "body_characters": 19093,
+    "state_sha256": "25aa53ee0603643b9f1dd34dbb0c80f3666d7f7eb233fbf4333977e5e86944fb"
+  }
+]

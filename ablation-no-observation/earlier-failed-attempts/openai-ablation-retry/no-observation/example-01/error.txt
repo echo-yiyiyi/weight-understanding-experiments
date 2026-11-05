@@ -1,0 +1,1 @@
+OpenAI HTTP 429; details={'code': 'credit_balance_exhausted', 'type': 'insufficient_quota'}. Check API key, model access, quota, and request limits. No automatic retry was made.

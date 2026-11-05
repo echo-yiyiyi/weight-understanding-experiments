@@ -1,0 +1,130 @@
+[
+  {
+    "condition": "gpt-6.1-sol",
+    "provider": "OpenAI",
+    "example": 1,
+    "true_game": "Breakout",
+    "status": "completed",
+    "model": "gpt-6.1-sol"
+  },
+  {
+    "condition": "gpt-6.1-sol",
+    "provider": "OpenAI",
+    "example": 2,
+    "true_game": "Pong",
+    "status": "completed",
+    "model": "gpt-6.1-sol"
+  },
+  {
+    "condition": "gpt-6.1-sol",
+    "provider": "OpenAI",
+    "example": 3,
+    "true_game": "Pac-Man",
+    "status": "completed",
+    "model": "gpt-6.1-sol"
+  },
+  {
+    "condition": "gpt-6.1-sol",
+    "provider": "OpenAI",
+    "example": 4,
+    "true_game": "Freeway",
+    "status": "completed",
+    "model": "gpt-6.1-sol"
+  },
+  {
+    "condition": "ablation-no-observation",
+    "provider": "Azure",
+    "example": 1,
+    "true_game": "Breakout",
+    "status": "completed",
+    "model": "gpt-6.1-sol"
+  },
+  {
+    "condition": "ablation-no-observation",
+    "provider": "Azure",
+    "example": 2,
+    "true_game": "Pong",
+    "status": "completed",
+    "model": "gpt-6.1-sol"
+  },
+  {
+    "condition": "ablation-no-observation",
+    "provider": "Azure",
+    "example": 3,
+    "true_game": "Pac-Man",
+    "status": "completed",
+    "model": "gpt-6.1-sol"
+  },
+  {
+    "condition": "ablation-no-observation",
+    "provider": "Azure",
+    "example": 4,
+    "true_game": "Freeway",
+    "status": "completed",
+    "model": "gpt-6.1-sol"
+  },
+  {
+    "condition": "ablation-no-actions",
+    "provider": "Azure",
+    "example": 1,
+    "true_game": "Breakout",
+    "status": "completed",
+    "model": "gpt-6.1-sol"
+  },
+  {
+    "condition": "ablation-no-actions",
+    "provider": "Azure",
+    "example": 2,
+    "true_game": "Pong",
+    "status": "completed",
+    "model": "gpt-6.1-sol"
+  },
+  {
+    "condition": "ablation-no-actions",
+    "provider": "Azure",
+    "example": 3,
+    "true_game": "Pac-Man",
+    "status": "completed",
+    "model": "gpt-6.1-sol"
+  },
+  {
+    "condition": "ablation-no-actions",
+    "provider": "Azure",
+    "example": 4,
+    "true_game": "Freeway",
+    "status": "unfinished",
+    "model": null
+  },
+  {
+    "condition": "ablation-no-input-output",
+    "provider": "Azure",
+    "example": 1,
+    "true_game": "Breakout",
+    "status": "completed",
+    "model": "gpt-6.1-sol"
+  },
+  {
+    "condition": "ablation-no-input-output",
+    "provider": "Azure",
+    "example": 2,
+    "true_game": "Pong",
+    "status": "completed",
+    "model": "gpt-6.1-sol"
+  },
+  {
+    "condition": "ablation-no-input-output",
+    "provider": "Azure",
+    "example": 3,
+    "true_game": "Pac-Man",
+    "status": "completed",
+    "model": "gpt-6.1-sol"
+  },
+  {
+    "condition": "ablation-no-input-output",
+    "provider": "Azure",
+    "example": 4,
+    "true_game": "Freeway",
+    "status": "completed",
+    "model": "gpt-6.1-sol"
+  }
+]
